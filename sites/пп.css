@@ -1,0 +1,11 @@
+/* Оформление сайта */
+.logo {
+  background-color: transparent; /* Убираем задний фон контейнера */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
